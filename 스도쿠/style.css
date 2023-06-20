@@ -11,6 +11,7 @@
 */
 .box {
     border-collapse: collapse;
+    margin:0 auto;
 }
 .box tr, td {
     border-collapse: collapse;
